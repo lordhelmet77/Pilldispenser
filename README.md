@@ -82,6 +82,7 @@ Please check the user manual for the usage of the device.
 - P7 - Ø12mm rubber or foam pads [5x]
 - P8 - SG90 Servo (Blue type is fine) [1x per tray]
 - P9 - Ball pen springs (0.4x4.5x18mm) [3x per tray]
+- - https://www.aliexpress.com/item/1005005817353551.html 
 - P10 - Ø1.5mm x 14mm rod (I used Aluminium TIG rod, you can use anything that fit) [1x per tray]
 - P11 - Ø1.5mm x 12mm rod (I used Aluminium TIG rod, you can use anything that fit) [1x per tray]
 - P12 - Torsion Spring - McMaster #9271K71 [1x per tray]
